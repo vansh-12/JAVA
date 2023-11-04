@@ -1,0 +1,5 @@
+VS CODE/TERMINAL:
+make class:
+javac selection.javac
+run class file:
+java selection
